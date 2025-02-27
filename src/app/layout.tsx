@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "FSW Donalds",
-  description: "Bora finalizar esse projeto lindo!",
+  title: "Pizzaria Icaro Armando",
+  description: "Pizzaria Icaro Armando",
 };
 
 export default function RootLayout({
